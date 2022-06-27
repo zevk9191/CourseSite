@@ -1,0 +1,26 @@
+#header {
+  position: fixed;
+  width: 100%;
+  max-height: 62px;
+  max-width: 1440px;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.header__inner {
+  margin: 0.5% 0;
+  width: 1050px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contacts__button {
+  margin: 0ch;
+  width: 36%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
